@@ -13,7 +13,7 @@ E-commerce is a highly competitive business, and building a positive user experi
 One of the most significant components of this experience is **the shopping cart**.
 
 In this lab, we will be building the **IronCart**, a shopping cart for the unofficial Ironhack merchandising store. Visitors should be able to add and remove products from the shopping cart, and modify the number (quantity) of items that they want to purchase. Additionally, users should be able to see the subtotal and total price for the items they have added.
-
+ 
 ## Requirements
 
 - Fork this repo.
